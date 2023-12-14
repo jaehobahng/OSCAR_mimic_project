@@ -1,0 +1,27 @@
+name: anly521
+channels:
+  - apple
+  - conda-forge
+dependencies:
+  - datasets
+  - jupyterlab
+  - os
+  - io
+  - re
+  - more-itertools
+  - nltk
+  - numpy
+  - pydantic
+  - pytorch
+  - pyyaml
+  - pip
+  - pytest
+  - python
+  - jupyter
+  - tqdm
+  - transformers
+  - spacy
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
